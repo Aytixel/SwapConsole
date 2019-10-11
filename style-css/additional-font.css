@@ -1,0 +1,8 @@
+@font-face { 
+    font-family: "smoothie-shoppe";
+    src: url('Smoothie_Shoppe.eot');
+    src: url("Smoothie_Shoppe.eot?#iefix") format("embedded-opentype"),
+        url("Smoothie_Shoppe.woff") format("woff"), 
+        url("Smoothie_Shoppe.ttf") format("truetype"), 
+        url("Smoothie_Shoppe.svg#Smoothie_Shoppe") format("svg");
+}
